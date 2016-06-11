@@ -1,23 +1,20 @@
 {
-  "name": "karma-remap-istanbul",
+  "name": "webpack-sourcemap-inline",
   "version": "1.0.0",
-  "description": "Karma reporter for remap-istanbul.",
+  "description": "Adds inline sourcemaps as base64 encoded sourceMappingUrl",
   "author": "Bobby Earl",
-  "homepage": "https://github.com/blackbaud-bobbyearl/karma-remap-istanbul",
+  "homepage": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "remap-istanbul": "devCrossNet/remap-istanbul"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blackbaud-bobbyearl/karma-remap-istanbul.git"
+    "url": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline.git"
   },
   "bugs": {
-    "url": "https://github.com/blackbaud-bobbyearl/karma-remap-istanbul/issues"
+    "url": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline/issues"
   },
   "engines": {
     "node": ">= 4.2.1",
