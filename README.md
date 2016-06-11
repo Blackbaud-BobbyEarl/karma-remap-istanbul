@@ -1,2 +1,2 @@
-# karma-remap-istanbul
-Karma reporter and wrapper for the remap-istanbul library.
+# webpack-sourcemap-inline
+Adds inline sourcemaps as base64 encoded sourceMappingUrl
