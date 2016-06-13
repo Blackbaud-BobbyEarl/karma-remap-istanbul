@@ -1,9 +1,9 @@
 {
-  "name": "webpack-sourcemap-inline",
+  "name": "source-map-inline-loader",
   "version": "1.0.0",
   "description": "Adds inline sourcemaps as base64 encoded sourceMappingUrl",
   "author": "Bobby Earl",
-  "homepage": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline",
+  "homepage": "https://github.com/blackbaud-bobbyearl/source-map-inline-loader",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline.git"
+    "url": "https://github.com/blackbaud-bobbyearlsource-map-inline-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/blackbaud-bobbyearl/webpack-sourcemap-inline/issues"
+    "url": "https://github.com/blackbaud-bobbyearl/source-map-inline-loader/issues"
   },
   "engines": {
     "node": ">= 4.2.1",
